@@ -35,3 +35,11 @@
 
 ## 📈 Outcome:
 ### ✅ This project demonstrates how machine learning can be effectively applied in the finance domain to combat fraud, protect users, and optimize risk management systems.
+
+## About Me:
+
+## I’m an aspiring Data Analyst / Data Scientist open to opportunities in analytics and machine learning.
+
+## 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saumyasuteshnu-behera-50a478209/)
